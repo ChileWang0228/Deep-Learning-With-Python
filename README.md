@@ -22,7 +22,7 @@
 
 # 其他平台
 * 个人微信号：xilan912427166  
-![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/%E5%BE%AE%E4%BF%A1%E5%8F%B7.jpg)
+![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/%E5%BE%AE%E4%BF%A1%E5%8F%B7.png)
 
 * 微信公众号  
 ![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
