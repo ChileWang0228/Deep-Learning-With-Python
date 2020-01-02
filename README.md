@@ -30,6 +30,6 @@
 * [BiliBili](https://space.bilibili.com/299585150)  
 * 个人微信号：xilan912427166
 ![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/%E5%BE%AE%E4%BF%A1%E5%8F%B7.png)
-# 深度学习炼丹化缘香火
+# 深度学习炼丹化缘
 ![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/%E7%82%BC%E4%B8%B9%E9%A6%99%E7%81%AB%E9%92%B1.jpg)
 
