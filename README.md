@@ -1,5 +1,6 @@
 # Deep-Learning-With-Python
-《Python深度学习》书籍代码
+《Python深度学习》书籍代码与数据[{提取码：bhpq}](https://pan.baidu.com/s/1YS8EV0qqh8IBldD8Lw4Q_A)
+
 # 前言
 
 * 当你看到前言的时候，说明你已经在深度学习的求知路途上做了一个事半功倍的抉择。笔者很高兴能在研究生阶段将自己所学以书本的形式结构化地记录下来，并改变这本书读者的所思、所想与所学。在聊完稿的感想之前，首先给大家一个本书所有配套源码和说明的[链接](https://github.com/ChileWang0228/Deep-Learning-With-Python)。大家可以在Github上对不懂的内容进行提问，笔者也会尽可能地帮助大家解决问题。
