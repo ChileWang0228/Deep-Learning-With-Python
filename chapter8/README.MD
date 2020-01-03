@@ -1,3 +1,5 @@
+## 欢迎Star，感谢Star~
+
 ## 2019BDCI互联网金融新实体发现（单模成绩第一，最终成绩第二）
 * 实践是检验理论的唯一标准。为此，笔者将通过中国计算机学会举办的[2019CCF大数据与计算智能大赛的互联网金融新实体发现竞赛](https://www.datafountain.cn/competitions/361)作为实践，让读者们在了解预训练模型强大的同时，顺便掌握打比赛的流程。
 * 笔者的代码在竞赛中获得了全国第二的成绩，加之笔者的单模成绩在TOP5中最好以及代码的复用性与解耦性强，值得大家学习与借鉴。
@@ -53,4 +55,19 @@
 """
 ```
   * 删除训练集出现过的实体（赛题规则）。
+
+
+
+# 其他平台
+
+* 微信公众号  
+![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+* [知乎](https://www.zhihu.com/people/bie-ying-xiang-zhi-li/activities)  
+* [BiliBili](https://space.bilibili.com/299585150)  
+* 个人微信号：xilan912427166
+![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/%E5%BE%AE%E4%BF%A1%E5%8F%B7.png)
+# 深度学习炼丹化缘
+![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/%E7%82%BC%E4%B8%B9%E9%A6%99%E7%81%AB%E9%92%B1.jpg)
+
+
   
