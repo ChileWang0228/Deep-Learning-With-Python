@@ -1,3 +1,5 @@
+# 欢迎Star，感谢Star~
+
 # Deep-Learning-With-Python
 《Python深度学习》书籍代码与数据[{提取码：bhpq}](https://pan.baidu.com/s/1YS8EV0qqh8IBldD8Lw4Q_A)
 ![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%BD%93%E7%B3%BB.png)
