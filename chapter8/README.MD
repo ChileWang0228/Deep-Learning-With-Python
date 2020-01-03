@@ -24,7 +24,11 @@
   * 动态权重BERT + BILSTM + CRF  
   
   ![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/chapter8/images/BILSTM.png)
+  
+  
   ![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/chapter8/images/IDCNN.png)
+  
+  
   ![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/chapter8/images/%E5%8A%A8%E6%80%81%E6%9D%83%E9%87%8D%E8%9E%8D%E5%90%88.png)
 
 
