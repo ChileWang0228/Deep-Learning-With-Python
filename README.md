@@ -3,6 +3,22 @@
 # Deep-Learning-With-Python [{新书上线啦，可点击此处购买}](https://item.jd.com/13067946.html) 
 《Python深度学习》书籍代码与数据[{提取码：bhpq}](https://pan.baidu.com/s/1YS8EV0qqh8IBldD8Lw4Q_A)
 ![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%BD%93%E7%B3%BB.png)
+
+# 【NLP学习课程】
+* 1.七个国家级竞赛获奖代码
+
+* 2.一套代码，七个项目，学习成本低。
+
+* 3.课程内容：预训练、文本分类、智能问答、命名实体识别、文本生成、模型蒸馏与减枝、loss应用。
+
+* 4.课程作者：清华大学出版社独立作者，多个nlp国家级奖项获得者，华为nlp算法工程师。
+
+* 5.公众号 and b站：阿力阿哩哩
+
+* 6.详情私聊加vx：xilan912427166
+
+* 【wēi-xìn】：xilan912427166
+
 # 前言
 
 * 当你看到前言的时候，说明你已经在深度学习的求知路途上做了一个事半功倍的抉择。笔者很高兴能在研究生阶段将自己所学以书本的形式结构化地记录下来，并改变这本书读者的所思、所想与所学。在聊完稿的感想之前，首先给大家一个本书所有配套源码和说明的[链接](https://github.com/ChileWang0228/Deep-Learning-With-Python)。大家可以在Github上对不懂的内容进行提问，笔者也会尽可能地帮助大家解决问题。
