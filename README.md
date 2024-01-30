@@ -46,8 +46,8 @@
 * [知乎](https://www.zhihu.com/people/bie-ying-xiang-zhi-li/activities)  
 * [BiliBili](https://space.bilibili.com/299585150)  
 * 个人微信号：smiletolife9527
-
 ![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/%E6%89%AB%E4%B8%80%E6%89%AB%E5%BE%AE%E4%BF%A1.jpg)
+
 # 开源不易，谢谢打赏！
 ![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/%E5%90%88%E4%BD%93%E6%94%B6%E6%AC%BE.jpg)
 
