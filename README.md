@@ -2,9 +2,11 @@
 
 # Deep-Learning-With-Python [{新书上线啦，可点击此处购买}](https://item.jd.com/13067946.html) 
 《Python深度学习》书籍代码与数据[{提取码：bhpq}](https://pan.baidu.com/s/1YS8EV0qqh8IBldD8Lw4Q_A)
+
 ![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%BD%93%E7%B3%BB.png)
 
-# 【NLP学习课程】
+
+# 自然语言处理——原理、方法与应用（计算机技术开发与应用丛书） [{新书上线啦，可点击此处购买}](https://item.jd.com/13853252.html) 
 * 1.七个国家级竞赛获奖代码
 
 * 2.一套代码，七个项目，学习成本低。
@@ -15,9 +17,6 @@
 
 * 5.公众号 and b站：阿力阿哩哩
 
-* 6.详情私聊加vx：xilan912427166
-
-* 【wēi-xìn】：xilan912427166
 
 # 前言
 
